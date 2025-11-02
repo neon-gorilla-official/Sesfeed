@@ -1,0 +1,14 @@
+node_modules
+
+# Tool app local files
+apps/tool/.env
+apps/tool/.env.local
+apps/tool/prisma/dev.db
+apps/tool/.next
+apps/tool/node_modules
+
+# Ignore build outputs
+.next
+build/
+
+node_modules
